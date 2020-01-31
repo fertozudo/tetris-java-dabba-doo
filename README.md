@@ -5,7 +5,7 @@ Tetris version coded in Java with love circa 2012
 ## Getting Started
 
 ```console
-foo@bar:~$ javac Ventana
+foo@bar:~$ javac Ventana.java
 foo@bar:~$ java Ventana
 ```
 
