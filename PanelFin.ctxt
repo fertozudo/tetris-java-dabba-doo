@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PanelFin()
+comment1.target=JButton\ getRejuego()
+comment2.target=JButton\ getSalir()
+comment3.target=JLabel[]\ gettt()
+numComments=4

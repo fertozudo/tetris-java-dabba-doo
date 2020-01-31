@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PanelInicio()
+comment1.target=JButton\ getComenzar()
+comment2.target=JRadioButton[]\ getBotonesNivel()
+comment3.target=JRadioButton[]\ getBotonesEscombro()
+numComments=4

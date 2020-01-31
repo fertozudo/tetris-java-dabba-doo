@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Imagenes()
+comment1.params=i
+comment1.target=ImageIcon\ getImagen(int)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BaseTopTen()
+comment1.params=puntosTetris\ nombre
+comment1.target=void\ introduce(int,\ String)
+comment2.target=void\ actualiza()
+comment3.params=pt
+comment3.target=boolean\ apto(int)
+comment4.target=String[]\ getTopTen()
+comment5.params=indice
+comment5.target=int\ getPuntos(int)
+numComments=6
