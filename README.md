@@ -1,14 +1,6 @@
-PROJECT TITLE:Tetris
-PURPOSE OF PROJECT: Having fun
-VERSION or DATE: Circa 2012
-HOW TO START THIS PROJECT:
-AUTHORS: Fertozudo
-USER INSTRUCTIONS:
-javac Ventana.java
-java Ventana
 # Tetris-java-dabba-doo
 
-One Paragraph of project description goes here
+Tetris version coded in Java with love circa 2012
 
 ## Getting Started
 
