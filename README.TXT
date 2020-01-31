@@ -4,3 +4,5 @@ VERSION or DATE: Circa 2012
 HOW TO START THIS PROJECT:
 AUTHORS: Fertozudo
 USER INSTRUCTIONS:
+javac Ventana.java
+java Ventana

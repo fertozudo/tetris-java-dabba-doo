@@ -18,7 +18,7 @@ public class PanelInicio extends JPanel{
         ButtonGroup grupoMusica = new ButtonGroup ();
         etiqueta[0]=new JLabel("Nivel");
         etiqueta[1]=new JLabel("Escombro");
-        etiqueta[2]=new JLabel("Música");    
+        etiqueta[2]=new JLabel("Musica");    
         for (int i = 0 ; i < etiqueta.length-1; i++)  etiqueta[i].setForeground(new java.awt.Color(255, 255, 255));
         etiqueta[3]=new JLabel(inicio);
         for (int i = 0 ; i < casilla.length; i++) {

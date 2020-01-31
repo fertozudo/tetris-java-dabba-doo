@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 public class PanelTopTen extends JPanel {
-    private JLabel eti =new JLabel("Introduce tu nombre (Máximo 10 caracteres)");
+    private JLabel eti =new JLabel("Introduce tu nombre (Maximo 10 caracteres)");
     private JLabel eti2 =new JLabel("            ");
     private JTextField nombre = new JTextField();
     private JButton aceptar = new JButton("Aceptar");  
